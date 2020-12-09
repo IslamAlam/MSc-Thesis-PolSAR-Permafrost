@@ -4,3 +4,4 @@ code/.ipynb_checkpoints/ecological_maps-checkpoint.ipynb
 .ipynb_checkpoints/*
 **/.ipynb_checkpoints/*.*
 **/figures/Figures/*
+**/*.zip
